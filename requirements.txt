@@ -1,0 +1,12 @@
+opencv-python  # for reading and analyzing images
+
+google-genai  # for generating image captions
+
+pyttsx3  # for text to speech generation
+
+moviepy  # for video frames
+
+python-dotenv  # for storing OpenAI API key safely
+
+PIL # converting images to photo-icons
+

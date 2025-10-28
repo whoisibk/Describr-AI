@@ -1,0 +1,12 @@
+User uploads image
+↓
+OpenCV reads and preps it
+↓
+Send image to Gemini API
+↓
+Get caption (text)
+↓
+Use pyttsx3 to say the caption aloud
+↓
+Display the caption in GUI
+
